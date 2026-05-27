@@ -1,1 +1,0 @@
-import{o as e}from"./react-runtime-X0TjbgW0.js";import{n as t,r as n}from"./use-automation-page-CBeEK91B.js";var r=e();function i(){return(0,r.jsx)(n,{createButtonTestId:`create-trigger-btn`,createLabel:`Trigger`,page:t(),title:`Triggers`,titlePrefix:`triggers`})}export{i as component};
