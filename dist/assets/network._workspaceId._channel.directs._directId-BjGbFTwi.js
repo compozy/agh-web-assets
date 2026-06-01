@@ -1,1 +1,0 @@
-import{o as e}from"./react-runtime-X0TjbgW0.js";import{l as t}from"./network-BSLmmtbd.js";import{t as n}from"./index-CTIy_WtY.js";var r=e();function i(){let{workspaceId:e,channel:i,directId:a}=n.useParams();return(0,r.jsx)(t,{channel:i,directId:a,workspaceId:e})}export{i as component};
