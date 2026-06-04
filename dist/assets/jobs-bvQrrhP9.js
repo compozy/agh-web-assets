@@ -1,1 +1,0 @@
-import{o as e}from"./react-runtime-X0TjbgW0.js";import{r as t,t as n}from"./use-automation-page-CEyGnzzW.js";var r=e();function i(){return(0,r.jsx)(t,{createButtonTestId:`create-job-btn`,createLabel:`Job`,page:n(),title:`Jobs`,titlePrefix:`jobs`})}export{i as component};

@@ -1,0 +1,1 @@
+import{Pt as e}from"./index-B6RzTA1j.js";function t(t,n){return!t||!n?null:e(t,n)?{scope:`global`}:{scope:`workspace`,workspace:t.id}}export{t};
