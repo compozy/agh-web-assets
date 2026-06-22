@@ -9,7 +9,7 @@ const DistDir = "dist"
 const (
 	BuildDigest = "c5afa8f561a64180c74c58533970c3ee2dda73bd1076c4f43e75ee884792ddf1"
 	SourceRepository = "github.com/compozy/agh"
-	SourceCommit = "27d67c51a240f9044a0cf173afa4b999a54eeead"
+	SourceCommit = "86ea1bd2c0155f1f617684a79ea96e6c0670a348"
 )
 
 // DistFS embeds the generated production AGH web UI bundle.
