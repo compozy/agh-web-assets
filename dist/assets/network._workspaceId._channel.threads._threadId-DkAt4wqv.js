@@ -1,1 +1,0 @@
-import{o as e}from"./react-runtime-CMYZyFHI.js";import{d as t,h as n}from"./network-BcrKo4VF.js";import{n as r}from"./index-C_pG68_K.js";var i=e();function a(){let{workspaceId:e,channel:a,threadId:o}=r.useParams(),s=r.useSearch(),c=n();return(0,i.jsx)(t,{workspaceId:e,channel:a,fullPage:s.view===`full`||c===`fullpage`,threadId:o})}export{a as component};
