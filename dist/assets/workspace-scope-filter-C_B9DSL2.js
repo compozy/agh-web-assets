@@ -1,1 +1,0 @@
-import{Pt as e}from"./index-BJ6sei3j.js";function t(t,n){return!t||!n?null:e(t,n)?{scope:`global`}:{scope:`workspace`,workspace:t.id}}export{t};
