@@ -1,0 +1,1 @@
+import{o as e}from"./react-runtime-CMYZyFHI.js";import{a as t}from"./Matches-DJTPGpdC.js";import{B as n,z as r}from"./settings-Cd0E0S_6.js";import{t as i}from"./settings-6Sf-6TyT.js";var a=e();function o(){return(0,a.jsx)(i,{testId:`settings-shell`,children:(0,a.jsx)(t,{})})}export{r as SETTINGS_ROOT_PATH,n as SETTINGS_SECTIONS,o as component};

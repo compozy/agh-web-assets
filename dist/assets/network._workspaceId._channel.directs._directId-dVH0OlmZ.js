@@ -1,0 +1,1 @@
+import{o as e}from"./react-runtime-CMYZyFHI.js";import{l as t}from"./network-D5jlpqjt.js";import{t as n}from"./index-eFnZOZl3.js";var r=e();function i(){let{workspaceId:e,channel:i,directId:a}=n.useParams();return(0,r.jsx)(t,{channel:i,directId:a,workspaceId:e})}export{i as component};
