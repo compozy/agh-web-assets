@@ -1,1 +1,0 @@
-import{g as e}from"./workspace-Br0rA5No.js";function t(t,n){return!t||!n?null:e(t,n)?{scope:`global`}:{scope:`workspace`,workspace:t.id}}export{t};

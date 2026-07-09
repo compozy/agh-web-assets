@@ -1,0 +1,1 @@
+import{mi as e}from"./src-D5Gokss8.js";var t=e(`circle-stop`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`rect`,{x:`9`,y:`9`,width:`6`,height:`6`,rx:`1`,key:`1ssd4o`}]]),n=e(`lock`,[[`rect`,{width:`18`,height:`11`,x:`3`,y:`11`,rx:`2`,ry:`2`,key:`1w4ew1`}],[`path`,{d:`M7 11V7a5 5 0 0 1 10 0v4`,key:`fwvmzm`}]]);export{t as n,n as t};
