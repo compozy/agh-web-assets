@@ -1,0 +1,1 @@
+function e(e){return e.map(e=>({id:e.id,name:e.name,root_dir:e.root_dir}))}export{e as t};

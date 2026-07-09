@@ -1,1 +1,0 @@
-import{Kt as e}from"./index-DM1Sm70P.js";function t(t,n){return!t||!n?null:e(t,n)?{scope:`global`}:{scope:`workspace`,workspace:t.id}}export{t};
