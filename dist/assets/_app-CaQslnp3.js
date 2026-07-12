@@ -1,0 +1,1 @@
+import{t as e}from"./-app-route-boundaries-Cis0aUmx.js";var t=e;export{t as errorComponent};

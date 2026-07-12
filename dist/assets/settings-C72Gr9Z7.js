@@ -1,0 +1,1 @@
+import{bt as e,yt as t}from"./model-catalog-LKe7X6pk.js";import{n}from"./-settings-shell-boundaries-CepXB-Ii.js";var r=n;export{t as SETTINGS_ROOT_PATH,e as SETTINGS_SECTIONS,r as notFoundComponent};
