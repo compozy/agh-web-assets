@@ -1,1 +1,0 @@
-var e={idle:`neutral`,refreshing:`info`,succeeded:`success`,failed:`danger`},t={healthy:`success`,unhealthy:`danger`},n={active:`success`,error:`danger`,registered:`info`,enabled:`warning`};function r(t){return e[t]??`neutral`}function i(e){return e?t[e]??`neutral`:`neutral`}function a(e){return e?n[e]??`neutral`:`neutral`}export{i as n,a as r,r as t};

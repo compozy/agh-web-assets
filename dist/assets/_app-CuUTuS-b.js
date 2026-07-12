@@ -1,0 +1,1 @@
+import{t as e}from"./-app-route-boundaries-Ca1go9-_.js";var t=e;export{t as errorComponent};
