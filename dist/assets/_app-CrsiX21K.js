@@ -1,1 +1,0 @@
-import{n as e}from"./-app-route-boundaries-Cs1-muWZ.js";var t=e;export{t as notFoundComponent};
