@@ -1,0 +1,1 @@
+import{n as e,s as t}from"./react-runtime-ByZaFdkL.js";import{i as n,r}from"./index-DhmpstAv.js";var i=e(),a=t();function o(){let e=(0,i.c)(4),{name:t,id:o}=r.useParams(),{workspaceId:s}=r.useLoaderData(),c;return e[0]!==o||e[1]!==t||e[2]!==s?(c=(0,a.jsx)(n,{name:t,id:o,workspaceId:s}),e[0]=o,e[1]=t,e[2]=s,e[3]=c):c=e[3],c}export{o as component};
