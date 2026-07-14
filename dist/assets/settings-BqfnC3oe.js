@@ -1,0 +1,1 @@
+import{bt as e,yt as t}from"./model-catalog-rM_j60Av.js";import{t as n}from"./-settings-shell-boundaries-D9BRD2dE.js";var r=n;export{t as SETTINGS_ROOT_PATH,e as SETTINGS_SECTIONS,r as errorComponent};

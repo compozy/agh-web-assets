@@ -1,1 +1,0 @@
-import{bt as e,yt as t}from"./model-catalog-DyeFNLKO.js";import{n}from"./-settings-shell-boundaries-C4WRsbz5.js";var r=n;export{t as SETTINGS_ROOT_PATH,e as SETTINGS_SECTIONS,r as notFoundComponent};
