@@ -1,0 +1,1 @@
+import{t as e}from"./-app-route-boundaries-C-bk5opw.js";var t=e;export{t as errorComponent};

@@ -1,1 +1,0 @@
-import{Xn as e,Zn as t}from"./agent-bq55AzfE.js";import{t as n}from"./-settings-shell-boundaries-ByjYqnNy.js";var r=n;export{e as SETTINGS_ROOT_PATH,t as SETTINGS_SECTIONS,r as errorComponent};
