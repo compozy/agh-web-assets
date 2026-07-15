@@ -1,1 +1,0 @@
-import{n as e}from"./-app-route-boundaries-CF51pL84.js";var t=e;export{t as notFoundComponent};
