@@ -1,0 +1,1 @@
+import{t as e}from"./-settings-shell-boundaries-Dgnu2riy.js";var t=e;export{t as errorComponent};
