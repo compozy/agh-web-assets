@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./react-runtime-ByZaFdkL.js";import{t as n}from"./extensions-DGwex_SX.js";import{l as r}from"./index-BK8UWVKd.js";var i=e(),a=t();function o(){let e=(0,i.c)(2),t=r.useParams(),o;return e[0]===t.id?o=e[1]:(o=(0,a.jsx)(n,{id:t.id}),e[0]=t.id,e[1]=o),o}export{o as component};

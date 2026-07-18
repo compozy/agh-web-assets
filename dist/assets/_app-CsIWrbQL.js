@@ -1,1 +1,0 @@
-import{n as e}from"./-app-route-boundaries-BF0M1WJ7.js";var t=e;export{t as notFoundComponent};
