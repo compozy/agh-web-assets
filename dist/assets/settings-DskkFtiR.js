@@ -1,0 +1,1 @@
+import{n as e,s as t}from"./react-runtime-ByZaFdkL.js";import{Bs as n}from"./agent-zQMXGyE4.js";import{t as r}from"./-settings-shell-frame-CyhxQh5L.js";var i=e(),a=t();function o(){let e=(0,i.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,a.jsx)(r,{testId:`settings-shell`,children:(0,a.jsx)(n,{})}),e[0]=t):t=e[0],t}var s=o;export{s as component};

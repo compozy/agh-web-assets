@@ -1,0 +1,1 @@
+import{t as e}from"./-settings-shell-boundaries-Cb35PZy8.js";var t=e;export{t as errorComponent};
