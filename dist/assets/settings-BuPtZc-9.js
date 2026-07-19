@@ -1,0 +1,1 @@
+import{t as e}from"./-settings-shell-boundaries-DxR7j88l.js";var t=e;export{t as errorComponent};

@@ -1,0 +1,1 @@
+import{t as e}from"./-app-route-boundaries-DkGjbewk.js";var t=e;export{t as errorComponent};
