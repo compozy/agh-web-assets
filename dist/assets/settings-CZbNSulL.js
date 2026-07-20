@@ -1,0 +1,1 @@
+import{t as e}from"./-settings-shell-boundaries-CEHSBKiK.js";var t=e;export{t as errorComponent};

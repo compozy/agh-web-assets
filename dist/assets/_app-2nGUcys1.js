@@ -1,0 +1,1 @@
+import{n as e}from"./-app-route-boundaries-gKdpKSpR.js";var t=e;export{t as notFoundComponent};
