@@ -1,0 +1,1 @@
+import{n as e}from"./os-yj40qDZF.js";var t=e(`network`);export{t as component};

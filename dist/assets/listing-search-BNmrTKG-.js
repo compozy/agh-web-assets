@@ -1,0 +1,1 @@
+function e(e){if(typeof e!=`string`)return;let t=e.trim();return t===``?void 0:t}function t(e){return e===`rows`||e===`cards`?e:void 0}export{t as n,e as t};

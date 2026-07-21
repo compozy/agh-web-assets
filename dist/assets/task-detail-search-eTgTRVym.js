@@ -1,0 +1,1 @@
+var e=[`overview`,`runs`,`activity`],t=[`diagnostics`,`stream`,`bridges`,`raw`];function n(e,t,n){return typeof e==`string`&&t.includes(e)?e:n}function r(r){let i=typeof r.inspect==`string`&&t.includes(r.inspect)?r.inspect:void 0;return{tab:n(r.tab,e,`overview`),...i?{inspect:i}:{}}}export{r as t};

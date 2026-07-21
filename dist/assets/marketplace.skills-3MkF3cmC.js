@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./react-runtime-ByZaFdkL.js";import{Ki as n}from"./agent-DWQN0Bt3.js";import{b as r}from"./index-Dn8W633O.js";var i=e(),a=t();function o(){let e=(0,i.c)(2),t=r.useSearch(),o;return e[0]===t?o=e[1]:(o=(0,a.jsx)(n,{kind:`skill`,search:t}),e[0]=t,e[1]=o),o}export{o as component};
