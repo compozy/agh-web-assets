@@ -1,0 +1,1 @@
+import{n as e}from"./os-BF-aDWvb.js";var t=e(`jobs`);export{t as component};

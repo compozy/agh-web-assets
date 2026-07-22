@@ -1,1 +1,0 @@
-import{n as e}from"./os-yj40qDZF.js";var t=e(`knowledge`);export{t as component};

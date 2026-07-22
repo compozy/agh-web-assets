@@ -1,1 +1,0 @@
-import{n as e}from"./os-yj40qDZF.js";var t=e(`vault`);export{t as component};
