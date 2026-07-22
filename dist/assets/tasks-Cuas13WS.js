@@ -1,0 +1,1 @@
+import{n as e}from"./os-DhXPIqQj.js";var t=e(`tasks`);export{t as component};

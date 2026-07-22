@@ -1,1 +1,0 @@
-import{n as e}from"./os-BF-aDWvb.js";var t=e(`bridges`);export{t as component};
