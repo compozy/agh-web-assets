@@ -1,1 +1,0 @@
-import{ui as e}from"./agent-JkSglZGF.js";var t=e(`triggers`);export{t as component};

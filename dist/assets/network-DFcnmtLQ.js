@@ -1,0 +1,1 @@
+import{ui as e}from"./agent-DihLMM14.js";var t=e(`network`);export{t as component};
