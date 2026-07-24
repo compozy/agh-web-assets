@@ -1,0 +1,1 @@
+import{ui as e}from"./agent-DVhwO1EF.js";var t=e(`marketplace`);export{t as component};

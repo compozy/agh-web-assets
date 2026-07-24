@@ -1,0 +1,1 @@
+import{i as e}from"./clsx-BhXB-fXu.js";import{Hi as t}from"./agent-DVhwO1EF.js";import{r as n}from"./-route-preload-C9IK1b6v.js";var r=e({preloadVaultRoute:()=>i});function i(e,r={}){return n([e.ensureQueryData(t(r))])}export{i as n,r as t};

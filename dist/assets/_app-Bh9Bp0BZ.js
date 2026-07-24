@@ -1,0 +1,1 @@
+import{ui as e}from"./agent-DVhwO1EF.js";var t=e(`dashboard`);export{t as component};

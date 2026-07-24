@@ -1,0 +1,1 @@
+import{i as e}from"./clsx-BhXB-fXu.js";import{m as t}from"./knowledge-BWwF2llh.js";import{r as n}from"./-route-preload-C9IK1b6v.js";var r=e({preloadKnowledgeRoute:()=>a}),i={scope:`global`,includeSystem:!1,limit:50,sort:`recent`};function a(e){return n([e.ensureInfiniteQueryData(t(i))])}export{a as n,r as t};
