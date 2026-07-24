@@ -1,1 +1,0 @@
-import{gi as e}from"./agent-9cDGRb9k.js";var t=e(`sandbox`);export{t as component};

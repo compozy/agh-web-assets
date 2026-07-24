@@ -1,0 +1,1 @@
+import{ui as e}from"./agent-JkSglZGF.js";var t=e(`sandbox`);export{t as component};

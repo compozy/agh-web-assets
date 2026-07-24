@@ -1,0 +1,1 @@
+import{ui as e}from"./agent-JkSglZGF.js";var t=e(`vault`);export{t as component};
