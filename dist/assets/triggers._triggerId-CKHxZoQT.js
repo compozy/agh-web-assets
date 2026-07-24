@@ -1,0 +1,1 @@
+import{gi as e}from"./agent-9cDGRb9k.js";var t=e(`triggers`);export{t as component};

@@ -1,1 +1,0 @@
-import{n as e}from"./os-DhXPIqQj.js";var t=e(`sandbox`);export{t as component};
