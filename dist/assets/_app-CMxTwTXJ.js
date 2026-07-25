@@ -1,0 +1,1 @@
+import{hi as e}from"./agent-Bo5pbi7w.js";var t=e;export{t as component};

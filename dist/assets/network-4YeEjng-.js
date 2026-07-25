@@ -1,1 +1,0 @@
-import{ui as e}from"./agent-DVhwO1EF.js";var t=e(`network`);export{t as component};

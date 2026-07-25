@@ -1,1 +1,0 @@
-import{ui as e}from"./agent-DVhwO1EF.js";var t=e(`knowledge`);export{t as component};
