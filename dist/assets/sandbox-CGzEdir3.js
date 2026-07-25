@@ -1,1 +1,0 @@
-import{mi as e}from"./agent-Bo5pbi7w.js";var t=e(`sandbox`);export{t as component};

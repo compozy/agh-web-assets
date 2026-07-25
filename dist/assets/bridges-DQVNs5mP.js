@@ -1,0 +1,1 @@
+import{gi as e}from"./agent-CxMiL_IL.js";var t=e(`bridges`);export{t as component};
