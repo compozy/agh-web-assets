@@ -1,1 +1,0 @@
-import{gi as e}from"./agent-CxMiL_IL.js";var t=e(`marketplace`);export{t as component};

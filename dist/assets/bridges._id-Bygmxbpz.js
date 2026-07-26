@@ -1,0 +1,1 @@
+import{gi as e}from"./agent-BYZiclNu.js";var t=e(`bridges`);export{t as component};

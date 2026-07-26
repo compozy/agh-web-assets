@@ -1,0 +1,1 @@
+import{gi as e}from"./agent-BYZiclNu.js";var t=e(`sandbox`);export{t as component};

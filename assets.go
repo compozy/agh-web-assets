@@ -7,9 +7,9 @@ import "embed"
 const DistDir = "dist"
 
 const (
-	BuildDigest = "c2f79c7ad5f71c7d4a7e2858b857c2fd9b548256839fcbae3f33fa63453cc199"
+	BuildDigest = "b7a101555518ee4455811f2248ac189bc5d99e1d7043e846c87f09eb318a8432"
 	SourceRepository = "github.com/compozy/agh"
-	SourceCommit = "0f445fec5333d562edf1d19498ebf3026fc8b335"
+	SourceCommit = "49fbc39067c5724311e5ee0739453d596d87e8d7"
 )
 
 // DistFS embeds the generated production AGH web UI bundle.
